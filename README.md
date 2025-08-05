@@ -16,5 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning generative AI, aiming to endow loco-manipulation ability for humanoid robot.
-Personal Web: https://dem-phi.github.io/about/
+  
 I am constantly seeking opportunities for PhD and research interns. You can find information about me in CV (in my website). Feel free to contact me at demphi@zju.edu.cn.
+
+Personal Web: https://dem-phi.github.io/about/
